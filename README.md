@@ -1,6 +1,8 @@
 # SkipTheDishes-Scraper
 A Python based data scraper to aggregate restaurant info from SkipTheDishes based on a particular city. The program utilizies BeautifulSoup4 and writes the data to a JSON file. The current data includes: Restaurant name, Delivery Time, and Rating value.
 
+Enter the name of a city that has SkipTheDishes and the data will output as follows.
+
 ```json
 {
     "7-Eleven": [
